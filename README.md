@@ -1,5 +1,7 @@
 # KSP Crime Intelligence Platform
 
+AI-Driven Crime Analytics & Visualization Platform
+
 ## Team
 - Bhakti Chand Tak (Lead)
 - Baibhav Singh
@@ -9,7 +11,7 @@
 ## Problem Statement
 AI-Driven Crime Analytics & Visualization Platform
 
-## Features
+## Core Features
 - Interactive Crime Map
 - Crime Hotspot Detection
 - Criminal Network Graph

@@ -1,0 +1,165 @@
+DistrictID,DistrictName,PoliceStationID,PoliceStationName,StationLatitude,StationLongitude,StationPopulation,CoordinateAdjustedToLand
+1,Bengaluru Urban,1001,Bengaluru Urban PS 1,12.970406,77.700716,275175,False
+1,Bengaluru Urban,1002,Bengaluru Urban PS 2,13.017587,77.679321,249052,False
+1,Bengaluru Urban,1003,Bengaluru Urban PS 3,13.035685,77.63007,342589,False
+1,Bengaluru Urban,1004,Bengaluru Urban PS 4,13.088527,77.607916,226368,False
+1,Bengaluru Urban,1005,Bengaluru Urban PS 5,13.063518,77.548928,301698,False
+1,Bengaluru Urban,1006,Bengaluru Urban PS 6,13.00739,77.513431,225264,False
+1,Bengaluru Urban,1007,Bengaluru Urban PS 7,12.973358,77.51782,214810,False
+1,Bengaluru Urban,1008,Bengaluru Urban PS 8,12.933208,77.455605,302668,False
+1,Bengaluru Urban,1009,Bengaluru Urban PS 9,12.861074,77.515412,208078,False
+1,Bengaluru Urban,1010,Bengaluru Urban PS 10,12.853713,77.608965,261122,False
+1,Bengaluru Urban,1011,Bengaluru Urban PS 11,12.889892,77.638443,278505,False
+1,Bengaluru Urban,1012,Bengaluru Urban PS 12,12.895157,77.72244,200281,False
+2,Belagavi,2001,Belagavi PS 1,15.838759,74.640125,160544,False
+2,Belagavi,2002,Belagavi PS 2,15.983319,74.637686,108950,False
+2,Belagavi,2003,Belagavi PS 3,15.979402,74.504755,197070,False
+2,Belagavi,2004,Belagavi PS 4,15.962808,74.36745,93646,False
+2,Belagavi,2005,Belagavi PS 5,15.815949,74.3491,124343,False
+2,Belagavi,2006,Belagavi PS 6,15.72628,74.340784,122540,False
+2,Belagavi,2007,Belagavi PS 7,15.637467,74.458152,166244,False
+2,Belagavi,2008,Belagavi PS 8,15.678595,74.62066,145584,False
+3,Mysuru,3001,Mysuru PS 1,12.284731,76.733726,126989,False
+3,Mysuru,3002,Mysuru PS 2,12.415289,76.770642,164449,False
+3,Mysuru,3003,Mysuru PS 3,12.438809,76.66207,128873,False
+3,Mysuru,3004,Mysuru PS 4,12.415287,76.482955,165882,False
+3,Mysuru,3005,Mysuru PS 5,12.287941,76.563692,105374,False
+3,Mysuru,3006,Mysuru PS 6,12.222716,76.477638,122359,False
+3,Mysuru,3007,Mysuru PS 7,12.101983,76.572573,94664,False
+3,Mysuru,3008,Mysuru PS 8,12.145383,76.734788,100397,False
+4,Dakshina Kannada,4001,Dakshina Kannada PS 1,12.905465,75.090409,136848,False
+4,Dakshina Kannada,4002,Dakshina Kannada PS 2,12.954993,74.953628,102388,False
+4,Dakshina Kannada,4003,Dakshina Kannada PS 3,13.046332,74.875734,130541,True
+4,Dakshina Kannada,4004,Dakshina Kannada PS 4,13.013765,74.882247,198910,True
+4,Dakshina Kannada,4005,Dakshina Kannada PS 5,12.895021,74.905996,115250,True
+4,Dakshina Kannada,4006,Dakshina Kannada PS 6,12.75865,74.928308,103727,True
+4,Dakshina Kannada,4007,Dakshina Kannada PS 7,12.687113,74.934031,132180,True
+4,Dakshina Kannada,4008,Dakshina Kannada PS 8,12.781564,75.033366,102309,False
+5,Tumakuru,5001,Tumakuru PS 1,13.365253,77.351925,84800,False
+5,Tumakuru,5002,Tumakuru PS 2,13.542752,77.169224,61602,False
+5,Tumakuru,5003,Tumakuru PS 3,13.447882,76.937751,128006,False
+5,Tumakuru,5004,Tumakuru PS 4,13.279149,76.962605,60693,False
+5,Tumakuru,5005,Tumakuru PS 5,13.100773,77.1692,67173,False
+6,Kalaburagi,6001,Kalaburagi PS 1,17.351201,77.001678,78334,False
+6,Kalaburagi,6002,Kalaburagi PS 2,17.543002,76.948509,103738,False
+6,Kalaburagi,6003,Kalaburagi PS 3,17.417976,76.600851,111726,False
+6,Kalaburagi,6004,Kalaburagi PS 4,17.164177,76.625127,64233,False
+6,Kalaburagi,6005,Kalaburagi PS 5,17.076176,76.951924,106233,False
+7,Davanagere,7001,Davanagere PS 1,14.455449,76.173257,122967,False
+7,Davanagere,7002,Davanagere PS 2,14.600613,76.135529,121819,False
+7,Davanagere,7003,Davanagere PS 3,14.589125,75.700951,73301,False
+7,Davanagere,7004,Davanagere PS 4,14.404699,75.840528,98199,False
+7,Davanagere,7005,Davanagere PS 5,14.328256,75.957348,77413,False
+8,Shivamogga,8001,Shivamogga PS 1,13.912525,75.760779,122364,False
+8,Shivamogga,8002,Shivamogga PS 2,14.091978,75.597213,59599,False
+8,Shivamogga,8003,Shivamogga PS 3,14.036158,75.374099,73123,False
+8,Shivamogga,8004,Shivamogga PS 4,13.763002,75.340628,120763,False
+8,Shivamogga,8005,Shivamogga PS 5,13.723044,75.617696,99502,False
+9,Ballari,9001,Ballari PS 1,15.147373,77.044619,75408,False
+9,Ballari,9002,Ballari PS 2,15.210848,76.948244,129923,False
+9,Ballari,9003,Ballari PS 3,15.278421,76.769728,70180,False
+9,Ballari,9004,Ballari PS 4,15.092549,76.832212,66429,False
+9,Ballari,9005,Ballari PS 5,15.027449,76.934266,124446,False
+10,Hubballi-Dharwad,10001,Hubballi-Dharwad PS 1,15.44291,75.075741,128071,False
+10,Hubballi-Dharwad,10002,Hubballi-Dharwad PS 2,15.606388,75.167814,137062,False
+10,Hubballi-Dharwad,10003,Hubballi-Dharwad PS 3,15.678379,74.993023,175666,False
+10,Hubballi-Dharwad,10004,Hubballi-Dharwad PS 4,15.569158,74.846516,110121,False
+10,Hubballi-Dharwad,10005,Hubballi-Dharwad PS 5,15.461791,74.853058,104003,False
+10,Hubballi-Dharwad,10006,Hubballi-Dharwad PS 6,15.343254,74.875582,169115,False
+10,Hubballi-Dharwad,10007,Hubballi-Dharwad PS 7,15.405137,75.007862,190459,False
+10,Hubballi-Dharwad,10008,Hubballi-Dharwad PS 8,15.39997,75.072874,189522,False
+11,Hassan,11001,Hassan PS 1,12.99691,76.213668,82670,False
+11,Hassan,11002,Hassan PS 2,13.115088,76.142008,59163,False
+11,Hassan,11003,Hassan PS 3,13.096841,75.911693,96901,False
+11,Hassan,11004,Hassan PS 4,12.904752,75.879765,72148,False
+11,Hassan,11005,Hassan PS 5,12.79556,76.224402,81548,False
+12,Mandya,12001,Mandya PS 1,12.551255,77.080661,118023,False
+12,Mandya,12002,Mandya PS 2,12.717763,76.965167,86096,False
+12,Mandya,12003,Mandya PS 3,12.579748,76.804486,109374,False
+12,Mandya,12004,Mandya PS 4,12.428805,76.853751,95791,False
+12,Mandya,12005,Mandya PS 5,12.290443,77.0122,112331,False
+13,Kolar,13001,Kolar PS 1,13.133003,78.391924,123901,False
+13,Kolar,13002,Kolar PS 2,13.32556,78.184505,69087,False
+13,Kolar,13003,Kolar PS 3,13.326014,77.924672,105180,False
+13,Kolar,13004,Kolar PS 4,13.015063,77.879907,111860,False
+13,Kolar,13005,Kolar PS 5,12.884657,78.217708,96570,False
+14,Vijayapura,14001,Vijayapura PS 1,16.798133,75.874222,70517,False
+14,Vijayapura,14002,Vijayapura PS 2,16.999154,75.815561,114447,False
+14,Vijayapura,14003,Vijayapura PS 3,16.933607,75.583929,114841,False
+14,Vijayapura,14004,Vijayapura PS 4,16.690314,75.552361,126335,False
+14,Vijayapura,14005,Vijayapura PS 5,16.605297,75.760321,85910,False
+15,Raichur,15001,Raichur PS 1,16.310791,77.697004,50341,False
+15,Raichur,15002,Raichur PS 2,16.357683,77.334015,70541,False
+15,Raichur,15003,Raichur PS 3,16.153885,77.014913,40449,False
+15,Raichur,15004,Raichur PS 4,16.000718,77.430457,64222,False
+16,Chikkaballapura,16001,Chikkaballapura PS 1,13.404966,77.95179,118336,False
+16,Chikkaballapura,16002,Chikkaballapura PS 2,13.595931,77.81026,103005,False
+16,Chikkaballapura,16003,Chikkaballapura PS 3,13.582791,77.550063,102079,False
+16,Chikkaballapura,16004,Chikkaballapura PS 4,13.302906,77.529388,74196,False
+16,Chikkaballapura,16005,Chikkaballapura PS 5,13.309162,77.825451,76785,False
+17,Bengaluru Rural,17001,Bengaluru Rural PS 1,13.255111,77.847895,99022,False
+17,Bengaluru Rural,17002,Bengaluru Rural PS 2,13.460121,77.592994,64424,False
+17,Bengaluru Rural,17003,Bengaluru Rural PS 3,13.380996,77.476633,99593,False
+17,Bengaluru Rural,17004,Bengaluru Rural PS 4,13.200845,77.500835,58943,False
+17,Bengaluru Rural,17005,Bengaluru Rural PS 5,13.019412,77.713022,90999,False
+18,Uttara Kannada,18001,Uttara Kannada PS 1,14.770536,74.41274,44999,False
+18,Uttara Kannada,18002,Uttara Kannada PS 2,14.928867,74.303763,45992,True
+18,Uttara Kannada,18003,Uttara Kannada PS 3,14.821174,74.338224,76702,True
+18,Uttara Kannada,18004,Uttara Kannada PS 4,14.47053,74.540157,53473,True
+19,Bagalkote,19001,Bagalkote PS 1,16.153731,75.925386,106131,False
+19,Bagalkote,19002,Bagalkote PS 2,16.396938,75.746952,82324,False
+19,Bagalkote,19003,Bagalkote PS 3,16.383094,75.501013,67757,False
+19,Bagalkote,19004,Bagalkote PS 4,16.119785,75.61048,122966,False
+19,Bagalkote,19005,Bagalkote PS 5,16.043245,75.711055,111166,False
+20,Udupi,20001,Udupi PS 1,13.338525,74.817295,121577,True
+20,Udupi,20002,Udupi PS 2,13.493983,74.844521,81906,False
+20,Udupi,20003,Udupi PS 3,13.444499,74.7961,118030,True
+20,Udupi,20004,Udupi PS 4,13.226807,74.839639,118088,True
+20,Udupi,20005,Udupi PS 5,13.206424,74.843715,122211,True
+21,Chitradurga,21001,Chitradurga PS 1,14.1395,76.648612,108798,False
+21,Chitradurga,21002,Chitradurga PS 2,14.335604,76.438987,117900,False
+21,Chitradurga,21003,Chitradurga PS 3,14.303009,76.185768,115616,False
+21,Chitradurga,21004,Chitradurga PS 4,14.096765,76.22847,100465,False
+21,Chitradurga,21005,Chitradurga PS 5,13.98075,76.372015,83697,False
+22,Ramanagara,22001,Ramanagara PS 1,12.744268,77.473283,74003,False
+22,Ramanagara,22002,Ramanagara PS 2,12.933272,77.409783,97661,False
+22,Ramanagara,22003,Ramanagara PS 3,12.813972,77.119387,129618,False
+22,Ramanagara,22004,Ramanagara PS 4,12.600143,77.111296,94192,False
+22,Ramanagara,22005,Ramanagara PS 5,12.48118,77.438908,101082,False
+23,Haveri,23001,Haveri PS 1,14.728627,75.744416,74053,False
+23,Haveri,23002,Haveri PS 2,15.13459,75.471342,80848,False
+23,Haveri,23003,Haveri PS 3,14.829125,75.197501,47039,False
+23,Haveri,23004,Haveri PS 4,14.457576,75.42976,85859,False
+24,Vijayanagara,24001,Vijayanagara PS 1,15.292386,76.710652,48061,False
+24,Vijayanagara,24002,Vijayanagara PS 2,15.395724,76.363202,55664,False
+24,Vijayanagara,24003,Vijayanagara PS 3,15.281918,76.071991,63441,False
+24,Vijayanagara,24004,Vijayanagara PS 4,15.009601,76.436107,80224,False
+25,Bidar,25001,Bidar PS 1,17.858715,77.793625,93373,False
+25,Bidar,25002,Bidar PS 2,18.078617,77.568282,128814,False
+25,Bidar,25003,Bidar PS 3,18.005039,77.402565,107074,False
+25,Bidar,25004,Bidar PS 4,17.766016,77.312762,106873,False
+25,Bidar,25005,Bidar PS 5,17.731316,77.578408,125739,False
+26,Chikkamagaluru,26001,Chikkamagaluru PS 1,13.308239,75.936574,46831,False
+26,Chikkamagaluru,26002,Chikkamagaluru PS 2,13.60322,75.852415,68655,False
+26,Chikkamagaluru,26003,Chikkamagaluru PS 3,13.348808,75.474032,58567,False
+26,Chikkamagaluru,26004,Chikkamagaluru PS 4,13.219912,75.758553,67270,False
+27,Gadag,27001,Gadag PS 1,15.462028,75.786128,42194,False
+27,Gadag,27002,Gadag PS 2,15.735126,75.563466,64514,False
+27,Gadag,27003,Gadag PS 3,15.389593,75.402529,75347,False
+27,Gadag,27004,Gadag PS 4,15.094697,75.649613,63340,False
+28,Koppal,28001,Koppal PS 1,15.32303,76.287585,68225,False
+28,Koppal,28002,Koppal PS 2,15.664766,76.201513,60781,False
+28,Koppal,28003,Koppal PS 3,15.339707,75.852541,77223,False
+28,Koppal,28004,Koppal PS 4,15.025871,76.163052,52640,False
+29,Chamarajanagara,29001,Chamarajanagara PS 1,11.979899,77.158593,68197,False
+29,Chamarajanagara,29002,Chamarajanagara PS 2,12.118244,76.91093,85562,False
+29,Chamarajanagara,29003,Chamarajanagara PS 3,11.93216,76.665604,83285,False
+29,Chamarajanagara,29004,Chamarajanagara PS 4,11.599812,76.98726,73114,False
+30,Yadgir,30001,Yadgir PS 1,16.775801,77.412675,45182,False
+30,Yadgir,30002,Yadgir PS 2,17.09911,77.053552,78491,False
+30,Yadgir,30003,Yadgir PS 3,16.74319,76.894208,83521,False
+30,Yadgir,30004,Yadgir PS 4,16.466986,77.047829,63122,False
+31,Kodagu,31001,Kodagu PS 1,12.404804,76.036883,40198,False
+31,Kodagu,31002,Kodagu PS 2,12.677645,75.673279,51073,False
+31,Kodagu,31003,Kodagu PS 3,12.419373,75.530315,83574,False
+31,Kodagu,31004,Kodagu PS 4,12.076665,75.760889,84710,False
