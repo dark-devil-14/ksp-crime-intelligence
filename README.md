@@ -1,6 +1,8 @@
 # KSP Crime Intelligence Platform Link: 
 https://kspcrimeintelligence-50044296851.development.catalystappsail.in/ 
 
+AI-Driven Crime Analytics & Visualization Platform
+
 ## Team
 - Bhakti Chand Tak (Lead)
 - Baibhav Singh
@@ -10,7 +12,7 @@ https://kspcrimeintelligence-50044296851.development.catalystappsail.in/
 ## Problem Statement
 AI-Driven Crime Analytics & Visualization Platform
 
-## Features
+## Core Features
 - Interactive Crime Map
 - Crime Hotspot Detection
 - Criminal Network Graph
