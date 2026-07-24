@@ -1,0 +1,8 @@
+{
+  "appsail": [
+    {
+      "source": "docker-archive://ksp-crime-intelligence-v8-amd64.tar",
+      "name": "KSPCrimeIntelligence"
+    }
+  ]
+}
